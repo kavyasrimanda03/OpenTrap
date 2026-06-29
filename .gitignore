@@ -1,0 +1,6 @@
+honeypot.log
+honeypot.db
+nohup.out
+venv/
+__pycache__/
+*.pem
